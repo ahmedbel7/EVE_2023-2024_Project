@@ -49,8 +49,7 @@ Bases de données : décrivez les besoins en matière de stockage et de gestion 
 
 ## Liste des capteurs
 - Electromyogram : https://www.gotronic.fr/art-capteur-emg-sen0240-27861.html
-- Gyroscope, accélerometre, magnétomètre, capteur d'orientation : BNO055
+- Gyroscope, accélerometre, magnétomètre, capteur d'orientation : BNO055, to capture hand rotation
 - Velostat(artificial skin): to capture pressure, twist
 - Pressure sensor: to capture the contact between two fingers
 - Potentiometer: to capture finger bending
-- Gyros: to capture hand rotation
