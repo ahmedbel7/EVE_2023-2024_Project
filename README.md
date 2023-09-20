@@ -30,12 +30,12 @@ Capteur de lumière (les aveugles deviennent photo phobiques)
 Option données cardiaques
 Capteur de rythme cardiaque
 
-**Acquisition*
+**Acquisition**
 Carte STM32
 Si possible avec un écran pour afficher les images ou les obstacles ou bien les couleurs pour le recensement de données (pour nous)
 
 
-**Traitement du signal* 
+**Traitement du signal**
 IA : Voix  et Image ( obstacle )
 Voix : Edge Impulse : création d’échantillons de données vocales
 Image.. 
