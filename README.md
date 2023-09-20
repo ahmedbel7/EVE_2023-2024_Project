@@ -98,6 +98,55 @@ L’utilisateur doit pouvoir:
 
 - mesurer la distance de l’obstacle en face en temps réel
 
+**Liens et idées pour les différents capteurs**
+ - Capteur cardiaque (capteur)
+         - evolution du rythme
+
+
+ - Ultrasons (capteur)
+	- Emetteur / Récepteur
+   	- Pour voir le “danger” imminent
+	- Sonar https://www.gotronic.fr/art-lv-maxsonar-ez0-11547.htm#complte_desc
+	- https://www.gotronic.fr/art-emetteur-a-ultrasons-tr4010t-18335.htm#complte_desc
+	- https://www.gotronic.fr/art-recepteur-a-ultrasons-tr4010r-18336.htm
+
+
+
+ - Caméras (capteur intégré)
+	- Voir plus loin que les ultrasons, mais pas de distance 
+	- Event based camera dvs 128
+	- Caméra “normale” : Carte Add-On, Module caméra Pcam 5C, Capteur de couleur OV5640, 5 MP, pour cartes de dév. FPGA
+
+
+ - Lumière
+
+Les données reçues de l’intensité lumineuse de la caméra pourront nous servir pour élargir le projet vers une polarisation de verres adaptable à l’individu car chaque malvoyant a une sensibilité qui lui est propre et plus ou moins accrue
+
+ - GPS (capteur intégré)
+	- Lien téléphone casque ? données GPS du téléphone ? Traceur GPS téléphone
+	- Connexion WIFi / Bluetooth
+	- “Ok Google ouvre Google Maps”. 
+
+
+ - Micro
+	- Micro cravate : Rode SmartLavPlus , Meilleur micro cravate : lequel choisir en 2023 ? (meilleurtest.fr)
+	- Rode SmartLav+ – Thomann France
+	- Micro casque
+	- Air Pods, écouteurs bluetooth
+	- Capteur micro : Capteur du Son avec Arduino – Microphone – Cours | Projets Divers (electronique-mixte.fr)
+
+ - Rythme cardiaque
+
+
+ - sites à check :
+   
+prophesee
+gensight
+pixiumvision
+inilabs/inivation
+
+
+
 
 
 
