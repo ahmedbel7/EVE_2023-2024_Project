@@ -47,7 +47,8 @@ Capteur de lumière (les aveugles deviennent photo phobiques)
 
 Option données cardiaques
 
-Capteur de rythme cardiaque
+## Capteur de rythme cardiaque
+
 
 # III Système Acquisition
 ## Carte STM32
