@@ -11,3 +11,5 @@
     - Orientation de la main
     - Contact des doigts
     - Haptic feedback (potentiometre)
+ 
+      Test test
