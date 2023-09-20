@@ -48,7 +48,7 @@ Bases de données : décrivez les besoins en matière de stockage et de gestion 
 - Avoir une communication stable 
 
 ## Liste des capteurs
-- electromyogram : https://www.gotronic.fr/art-capteur-emg-sen0240-27861.html
+- Electromyogram : https://www.gotronic.fr/art-capteur-emg-sen0240-27861.html
 - Gyroscope, accélerometre, magnétomètre, capteur d'orientation : BNO055
 - Velostat(artificial skin): to capture pressure, twist
 - Pressure sensor: to capture the contact between two fingers
