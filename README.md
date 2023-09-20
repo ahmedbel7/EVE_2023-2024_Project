@@ -28,8 +28,10 @@ Besoins fonctionnels :
 Besoins non fonctionnels : ergonomie, sécurité 
 
 ## Contraintes
-Contraintes techniques : ROS, Python, C, Arduino IDE
+Contraintes techniques : ROS, Python, C, Arduino IDE, Velostat
+
 Contraintes budgétaires : 
+
 Contraintes temporelles : Janvier 2024.
 
 ## Spécifications détaillées
