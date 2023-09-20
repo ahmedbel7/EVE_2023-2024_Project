@@ -48,4 +48,4 @@ Bases de données : décrivez les besoins en matière de stockage et de gestion 
 - Avoir une communication stable 
 
 ## Liste des capteurs
-- electromyogram
+- electromyogram : https://www.gotronic.fr/art-capteur-emg-sen0240-27861.htm
