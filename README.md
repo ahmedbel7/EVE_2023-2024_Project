@@ -9,6 +9,8 @@
     - Orientation de la main
     - Contact des doigts
     - Haptic feedback (potentiometre)
+## Pour qui ?
+Doit pouvoir être utilisé par une personne sans handicape 
 
 ## Présentation du projet
 Objectif général : Contrôler un robot avec un gant 
