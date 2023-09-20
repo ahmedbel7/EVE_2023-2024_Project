@@ -7,7 +7,7 @@
 
 **Contexte et Définition du projet**
 
-L'objectif de notre projet est de concevoir des lunettes technologiques innovantes spécialement destinées aux personnes aveugles, avec pour mission de faciliter leur navigation au quotidien. Ces lunettes seront équipées de capteurs avancés pour détecter les obstacles, de systèmes de vision par ordinateur pour reconnaître les éléments environnants, et d'une assistance audio pour fournir des informations en temps réel à l'utilisateur. En combinant la technologie électronique et informatique, notre objectif ultime est d'améliorer l'autonomie, la sécurité et la qualité de vie des personnes aveugles en leur offrant un outil intuitif et confortable pour explorer leur environnement avec confiance
+L'objectif de notre projet est de concevoir des lunettes technologiques innovantes spécialement destinées aux personnes aveugles, avec pour mission de faciliter leur navigation au quotidien. Ces lunettes seront équipées de capteurs avancés pour détecter les obstacles, de systèmes de vision par ordinateur pour reconnaître les éléments environnants, et d'une assistance audio pour fournir des informations en temps réel à l'utilisateur. En combinant la technologie électronique et informatique, notre objectif ultime est d'aider les personnes malvoyantes à réhappréander leur environnement et améliorer leur autonomie, leur sécurité et leur qualité de vie. 
 
 Utiliser de l’IA pour le capteur d’obstacle, traitement d’image pour qu’ils reconnaissent les obstacles de la vie courante.
 Création d’une PCB pour l’alimentation de capteurs et de la STM32
