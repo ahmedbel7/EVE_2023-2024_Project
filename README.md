@@ -17,18 +17,24 @@ Relier la commande vocale détection d’images avec distance
 # Capteurs
 ## Détection d’obstacles
 Trottoirs, passages piétons, humains, escaliers, panneaux, arbres, voitures
+
 Introduire de l’IA en énonçant l’objet touché (identification de produits)
 ## Communication
 Voix, Applications, Information GPS.
+
 Reconnaissances de visages
-Lecture des panneaux ( dans les transports en commun ) 
+
+Lecture des panneaux ( dans les transports en commun )
+
 Reconnaissance vocale (activation de la commande vocale)
 
 ## Intégration d’un GPS
 AirTag, localisation en extérieur
 ## Luminosité
 Capteur de lumière (les aveugles deviennent photo phobiques)
+
 Option données cardiaques
+
 Capteur de rythme cardiaque
 
 # Acquisition
@@ -38,15 +44,21 @@ Si possible avec un écran pour afficher les images ou les obstacles ou bien les
 
 ## Traitement du signal
 IA : Voix  et Image ( obstacle )
+
 Voix : Edge Impulse : création d’échantillons de données vocales
+
 Image.. 
+
 Géolocalisation / Antenne 
 
 
 **Liste des composants:**
 GPS / Gyroscope
+
 Micro / Haut-parleur au-dessus des oreilles
+
 Caméras de petite taille sur la longueur / Capteurs ultrasons
+
 Capteurs luminosité (verres polarisants)
 
 **Exigences:**
@@ -54,16 +66,25 @@ Capteurs luminosité (verres polarisants)
 L’utilisateur doit pouvoir:
 
 -activer la détection vocale (“push to talk”) pour choisir les différentes fonctionnalités
+
 -effectuer un itinéraire de façon autonome 
+
 -hauts parleurs au niveau des oreilles sans obstruer l’ouïe de l’utilisateur
+
 -communication vocale de l’appareil
+
 -pas trop lourdes
+
 -confortables
+
 -reconnaître la voix de l’utilisateur
+
 -mesurer la distance de l’obstacle en face en temps réel
+
 -IA: panneaux/trottoirs/passage piéton/voiture/escalier/humains/voitures
 
 mesurer la distance de l’obstacle en face en temps réel
+
 IA: panneaux/trottoirs/passage piéton/voiture/escalier/humains/voitures
 
 
