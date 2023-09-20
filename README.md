@@ -56,3 +56,6 @@ Bases de données : décrivez les besoins en matière de stockage et de gestion 
 - Pressure sensor: to capture the contact between two fingers
 - Potentiometer: to capture finger bending
 - https://www.youtube.com/watch?v=xNSRmXKSI_4
+
+Pourquoi celui la ? 
+
