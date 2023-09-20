@@ -14,32 +14,33 @@ Création d’une PCB pour l’alimentation de capteurs et de la STM32
 Relier la commande vocale détection d’images avec distance
 
 	
-**Capteurs**
-#Détection d’obstacles
-	#Trottoirs, passages piétons, humains, escaliers, panneaux, arbres, voitures
-	#Introduire de l’IA en énonçant l’objet touché (identification de produits)
-#Communication
-	##Voix, Applications, Information GPS.
-	##Reconnaissances de visages
-	##Lecture des panneaux ( dans les transports en commun ) 
-	##Reconnaissance vocale (activation de la commande vocale)
--Intégration d’un GPS
-	-AirTag, localisation en extérieur
--Luminosité
-	-Capteur de lumière (les aveugles deviennent photo phobiques)
--Option données cardiaques
-	-Capteur de rythme cardiaque
+# Capteurs
+## Détection d’obstacles
+Trottoirs, passages piétons, humains, escaliers, panneaux, arbres, voitures
+Introduire de l’IA en énonçant l’objet touché (identification de produits)
+## Communication
+Voix, Applications, Information GPS.
+Reconnaissances de visages
+Lecture des panneaux ( dans les transports en commun ) 
+Reconnaissance vocale (activation de la commande vocale)
 
-**Acquisition**
--Carte STM32
-	-Si possible avec un écran pour afficher les images ou les obstacles ou bien les couleurs pour le recensement de données (pour nous)
+## Intégration d’un GPS
+AirTag, localisation en extérieur
+## Luminosité
+Capteur de lumière (les aveugles deviennent photo phobiques)
+Option données cardiaques
+Capteur de rythme cardiaque
+
+# Acquisition
+## Carte STM32
+Si possible avec un écran pour afficher les images ou les obstacles ou bien les couleurs pour le recensement de données (pour nous)
 
 
-**Traitement du signal**
--IA : Voix  et Image ( obstacle )
-	-Voix : Edge Impulse : création d’échantillons de données vocales
-	-Image.. 
-	-Géolocalisation / Antenne 
+## Traitement du signal
+IA : Voix  et Image ( obstacle )
+Voix : Edge Impulse : création d’échantillons de données vocales
+Image.. 
+Géolocalisation / Antenne 
 
 
 **Liste des composants:**
