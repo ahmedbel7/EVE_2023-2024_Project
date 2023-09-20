@@ -11,9 +11,7 @@
     - Orientation de la main
     - Contact des doigts
     - Haptic feedback (potentiometre)
- 
-      Test test
-      
+
 ## Présentation du projet
 Objectif général : Contrôler un robot avec un gant 
 Objectifs spécifiques :
@@ -28,6 +26,7 @@ Besoins fonctionnels :
                         - retour sur l’orientation 
                         - position du robot 
                         - piloter la main avec le gant ou avoir des actions spécifiques pour chaque mouvement fait avec le gant. 
+                        
 Besoins non fonctionnels : ergonomie, sécurité 
 
 ## Contraintes
