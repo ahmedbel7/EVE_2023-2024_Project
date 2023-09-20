@@ -2,8 +2,20 @@
 
 # Lunettes pour personnes atteintes de cécité 
 
-# I Objectif General
+# I Introduction
 **Objectif du projet** : Réalisation de lunettes pour aveugle ( Création depuis le début de ces lunettes ) en utilisant des capteurs. 
+
+**Problématique** : Comment aider les personnes devenues malvoyantes à appréhender de nouveau l'environnement?
+
+**Equipe** : 
+
+Thomas PHAM : Responsable Livrable 
+
+Meryem TURHAN : Responsable Software 
+
+Manon COTTAR : Chef de projet
+
+Valentin GU-LU : Responsable Hardware 
 
 **Contexte et Définition du projet**
 
@@ -14,7 +26,7 @@ Création d’une PCB pour l’alimentation de capteurs et de la STM32
 Relier la commande vocale détection d’images avec distance
 
 	
-# Capteurs
+# II Capteurs
 ## Détection d’obstacles
 Trottoirs, passages piétons, humains, escaliers, panneaux, arbres, voitures
 
@@ -37,12 +49,12 @@ Option données cardiaques
 
 Capteur de rythme cardiaque
 
-# Acquisition
+# III Système Acquisition
 ## Carte STM32
 Si possible avec un écran pour afficher les images ou les obstacles ou bien les couleurs pour le recensement de données (pour nous)
 
 
-## Traitement du signal
+# IV Traitement du signal
 IA : Voix  et Image ( obstacle )
 
 Voix : Edge Impulse : création d’échantillons de données vocales
