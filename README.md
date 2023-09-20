@@ -25,7 +25,7 @@ Besoins fonctionnels :
 - feedback réception des signaux musculaires 
 - retour sur l’orientation 
 - position du robot 
- - piloter la main avec le gant ou avoir des actions spécifiques pour chaque mouvement fait avec le gant. 
+- piloter la main avec le gant ou avoir des actions spécifiques pour chaque mouvement fait avec le gant. 
                         
 Besoins non fonctionnels : ergonomie, sécurité 
 
@@ -36,7 +36,9 @@ Contraintes temporelles : Janvier 2024.
 
 ## Spécifications détaillées
 Architecture : décrivez la structure générale du projet.
-Interfaces : Cube IDE, 
+
+Interfaces : Cube IDE, VS Code, ROS
+
 Bases de données : décrivez les besoins en matière de stockage et de gestion des données.
 
 ## Critères d'acceptation
