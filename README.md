@@ -65,27 +65,27 @@ Capteurs luminosité (verres polarisants)
 
 L’utilisateur doit pouvoir:
 
--activer la détection vocale (“push to talk”) pour choisir les différentes fonctionnalités
+- activer la détection vocale (“push to talk”) pour choisir les différentes fonctionnalités
 
--effectuer un itinéraire de façon autonome 
+- effectuer un itinéraire de façon autonome 
 
--hauts parleurs au niveau des oreilles sans obstruer l’ouïe de l’utilisateur
+- hauts parleurs au niveau des oreilles sans obstruer l’ouïe de l’utilisateur
 
--communication vocale de l’appareil
+- communication vocale de l’appareil
 
--pas trop lourdes
+- pas trop lourdes
 
--confortables
+- confortables
 
--reconnaître la voix de l’utilisateur
+- reconnaître la voix de l’utilisateur
 
--mesurer la distance de l’obstacle en face en temps réel
+- mesurer la distance de l’obstacle en face en temps réel
 
--IA: panneaux/trottoirs/passage piéton/voiture/escalier/humains/voitures
+- IA: panneaux/trottoirs/passage piéton/voiture/escalier/humains/voitures
 
-mesurer la distance de l’obstacle en face en temps réel
+- mesurer la distance de l’obstacle en face en temps réel
 
-IA: panneaux/trottoirs/passage piéton/voiture/escalier/humains/voitures
+- IA: panneaux/trottoirs/passage piéton/voiture/escalier/humains/voitures
 
 
 
