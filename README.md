@@ -85,7 +85,7 @@ L’utilisateur doit pouvoir:
 
 - mesurer la distance de l’obstacle en face en temps réel
 
-- IA: panneaux/trottoirs/passage piéton/voiture/escalier/humains/voitures
+
 
 
 
