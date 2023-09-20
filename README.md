@@ -46,3 +46,6 @@ Bases de données : décrivez les besoins en matière de stockage et de gestion 
 - Avoir un gant fonctionnel et ergonomique
 - Acquérir des signaux en fonctions de différentes actions de la main ( mouvement des doigts, contraction des muscles, orientation de la main…)
 - Avoir une communication stable 
+
+## Liste des capteurs
+- electromyogram
