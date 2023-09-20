@@ -61,4 +61,5 @@ Bases de données : décrivez les besoins en matière de stockage et de gestion 
 
 Pourquoi celui la ? 
 
+Pour mettre une image : 
 <img src="docs/name.png " alt="name" width="200"/>
