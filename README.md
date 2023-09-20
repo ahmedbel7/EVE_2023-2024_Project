@@ -1,6 +1,6 @@
 # EVE_2023-2024_Project
 
-# Lunettes pour aveugle
+# Lunettes pour personnes atteintes de cécité 
 
 # I Objectif General
 **Objectif du projet** : Réalisation de lunettes pour aveugle ( Création depuis le début de ces lunettes ) en utilisant des capteurs. 
