@@ -53,10 +53,9 @@ Bases de données : décrivez les besoins en matière de stockage et de gestion 
 - Electromyogram :
     - https://www.gotronic.fr/art-capteur-emg-sen0240-27861.htm
     - https://eu.robotshop.com/fr/products/electromyography-emg-sensor
-- Gyroscope, accélerometre, magnétomètre, capteur d'orientation : BNO055, to capture hand rotation
+- Gyroscope, accélerometre, magnétomètre, capteur d'orientation : https://www.mouser.fr/ProductDetail/Bosch-Sensortec/BNO055?qs=QhAb4EtQfbV8Z2YmISucWw%3D%3D
 - Velostat(artificial skin): to capture pressure, twist
-- Pressure sensor: to capture the contact between two fingers
-  https://www.gotronic.fr/art-capteur-de-force-fsr01-11552.htm
+- Pressure sensor: to capture the contact between two fingers: https://www.gotronic.fr/art-capteur-de-force-fsr01-11552.htm
 - Potentiometer: to capture finger bending
 
 - INSPIRATION
