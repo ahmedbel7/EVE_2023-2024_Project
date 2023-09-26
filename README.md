@@ -54,6 +54,7 @@ Bases de données : décrivez les besoins en matière de stockage et de gestion 
     - https://www.gotronic.fr/art-capteur-emg-sen0240-27861.htm
     - https://eu.robotshop.com/fr/products/electromyography-emg-sensor
     - https://www.mouser.fr/ProductDetail/SparkFun/DEV-18425?qs=t7xnP681wgWy3U1F8u8yVw%3D%3D&mgh=1&vip=1&gclid=CjwKCAjwgsqoBhBNEiwAwe5w0-L5xPd-VuEDQAtsSe9MgerAB8_JgHJxVIk0EnzZVOSmlyj8zlm68BoCh2wQAvD_BwE
+    - https://www.gotronic.fr/art-capteur-pour-muscle-myoware-2-0-36900.htm
 - Gyroscope, accélerometre, magnétomètre, capteur d'orientation : https://www.mouser.fr/ProductDetail/Bosch-Sensortec/BNO055?qs=QhAb4EtQfbV8Z2YmISucWw%3D%3D
 - Velostat(artificial skin): to capture pressure, twist
 - Pressure sensor: to capture the contact between two fingers: https://www.gotronic.fr/art-capteur-de-force-fsr01-11552.htm
