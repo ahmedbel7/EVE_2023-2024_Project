@@ -58,6 +58,8 @@ Bases de données : décrivez les besoins en matière de stockage et de gestion 
 - Pressure sensor: to capture the contact between two fingers
   https://www.gotronic.fr/art-capteur-de-force-fsr01-11552.htm
 - Potentiometer: to capture finger bending
+
+- INSPIRATION
 - https://www.youtube.com/watch?v=xNSRmXKSI_4
 - https://fr.farnell.com/adafruit-industries/1361/accessory-type-conductive-sheet/dp/2419170?gclid=CjwKCAjwsKqoBhBPEiwALrrqiDeGaSW_4uc-rm59poSZfxalWY5j2dFrcLATg-_UMGxAqV16yRr28hoCB38QAvD_BwE&mckv=_dc|pcrid||plid||kword||match||slid||product|2419170|pgrid||ptaid||&CMP=KNC-GFR-GEN-SHOPPING-Catch-All-Geo-Split-Control-12-July-23&gross_price=true
 
