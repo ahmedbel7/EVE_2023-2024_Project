@@ -148,7 +148,9 @@ inilabs/inivation
 # Commande 
 ## RS
 
-Camera Module Caméra Raspberry Pi, CSI-2, 1 canal, **lien code commande 913-2664**
+- Camera Module Caméra Raspberry Pi, CSI-2, 1 canal, **lien code commande 913-2664**
+
+- Ventilateur carte Raspberry Pi **Code commande RS:205-5263** SC0448 | Ventilateur de boîtier officiel pour Raspberry Pi 4 | RS (rs-online.com)
 
 ## Farnell
 
