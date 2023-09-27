@@ -75,4 +75,4 @@ Pour mettre une image :
 
 ### Wurth Elektronik
 
-### Mouser
+### Mouser Electronics
