@@ -55,7 +55,8 @@ Bases de données : décrivez les besoins en matière de stockage et de gestion 
     - https://eu.robotshop.com/fr/products/electromyography-emg-sensor
     - https://www.mouser.fr/ProductDetail/SparkFun/DEV-18425?qs=t7xnP681wgWy3U1F8u8yVw%3D%3D&mgh=1&vip=1&gclid=CjwKCAjwgsqoBhBNEiwAwe5w0-L5xPd-VuEDQAtsSe9MgerAB8_JgHJxVIk0EnzZVOSmlyj8zlm68BoCh2wQAvD_BwE
     - https://www.gotronic.fr/art-capteur-pour-muscle-myoware-2-0-36900.htm
-- Gyroscope, accélerometre, magnétomètre, capteur d'orientation : https://www.mouser.fr/ProductDetail/Bosch-Sensortec/BNO055?qs=QhAb4EtQfbV8Z2YmISucWw%3D%3D
+- Gyroscope, accélerometre, magnétomètre, capteur d'orientation : sans PCB : https://www.mouser.fr/ProductDetail/TDK-InvenSense/MPU-9250?qs=u4fy%2FsgLU9OhGjFkQSZssA%3D%3D
+  avec PCB : https://www.amazon.fr/9250-Module-Acc%C3%A9l%C3%A9rom%C3%A8tre-Gyroscope-magn%C3%A9tom%C3%A8tre-Raspberry/dp/B01M74J70A
 - Velostat(artificial skin): to capture pressure, twist
 - Pressure sensor: to capture the contact between two fingers: https://www.gotronic.fr/art-capteur-de-force-fsr01-11552.htm
 - Potentiometer: to capture finger bending
