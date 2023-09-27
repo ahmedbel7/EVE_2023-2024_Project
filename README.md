@@ -155,6 +155,8 @@ Camera Module Caméra Raspberry Pi, CSI-2, 1 canal, **lien code commande 913-266
 
 ## Gotronic 
 
+- LIDAR : **Code article : 32580** https://www.gotronic.fr/art-capteur-de-distance-lidar-ld19-35884.htm
+
 
 
 
