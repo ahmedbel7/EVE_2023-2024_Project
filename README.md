@@ -60,6 +60,7 @@ Bases de données : décrivez les besoins en matière de stockage et de gestion 
 - Velostat(artificial skin): to capture pressure, twist
 - Pressure sensor: to capture the contact between two fingers: https://www.gotronic.fr/art-capteur-de-force-fsr01-11552.htm
 - Potentiometer: to capture finger bending
+    Potentiometre linéaire x5: https://www.mouser.fr/ProductDetail/Bourns/PTA2043-2015CIB203?qs=AQlKX63v8RsiU3Md8%2FQpDw%3D%3D
 
 - INSPIRATION
 - https://www.youtube.com/watch?v=xNSRmXKSI_4
