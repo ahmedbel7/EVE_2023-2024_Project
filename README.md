@@ -157,7 +157,7 @@ inilabs/inivation
 
 ## Gotronic 
 
-- LIDAR : **Code article : 32580** https://www.gotronic.fr/art-capteur-de-distance-lidar-ld19-35884.htm
+
 
 
 
