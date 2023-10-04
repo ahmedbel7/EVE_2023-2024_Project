@@ -75,6 +75,9 @@ https://github.com/someone-eng/LeapMotion-remote-controlling-robot-hand
 
 ## To Order
 - STM32 : https://www.st.com/en/microcontrollers-microprocessors/stm32l4x2.html
+- Capteur pour muscle MyoWare 2.0 : https://www.mouser.fr/ProductDetail/SparkFun/DEV-21265?qs=1Kr7Jg1SGW%252BflYFUHS0Sdw%3D%3D
+- Pads à électrode SEN-12969 (pack de 10) : https://www.mouser.fr/ProductDetail/SparkFun/SEN-12969?qs=WyAARYrbSnaajKSHkjOGnw%3D%3D
+- Connecteur MH100 :  https://www.gotronic.fr/art-connecteur-he14-mh100-4457.htm 
 
 ### RS Component
 
